@@ -9,7 +9,7 @@ Original file is located at
 # imgAN
 ##### a Project on images using
 ### General Adversarial Networks (GANs)
-by Yash Bhardwaj
+by Siddhant Singh & Yash Bhardwaj
 
 Notebook version : 1
 
